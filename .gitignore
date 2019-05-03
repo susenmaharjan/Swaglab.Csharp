@@ -1,0 +1,15 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Swaglab/.vs/Swaglab/v15/Server/sqlite3
+/Swaglab/Swaglab/bin/Debug/netcoreapp2.2
+/Swaglab/Swaglab/obj
+/Swaglab/Swaglab.BAL/bin/Debug/netstandard2.0
+/Swaglab/Swaglab.BAL/obj
+/Swaglab/Swaglab.Common/bin/Debug/netstandard2.0
+/Swaglab/Swaglab.Common/obj
+/Swaglab/Swaglab.NunitTest/bin/Debug/netcoreapp2.2
+/Swaglab/Swaglab.NunitTest/obj
+/Swaglab/Swaglab.Test/bin/Debug/netstandard2.0
+/Swaglab/Swaglab.Test/obj
